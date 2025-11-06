@@ -1,1 +1,1 @@
-print("bingazi")
+print("bingazi 123")
